@@ -26,3 +26,9 @@ class Routes {
 // http://localhost:61858/#/contactus
 // http://localhost:61858/#/aboutus
 // http://localhost:61858/home
+
+// http://localhost:61858/
+// http://localhost:61858/#/setting
+// http://localhost:61858/#/contactus
+// http://localhost:61858/#/aboutus
+// http://localhost:61858/home
